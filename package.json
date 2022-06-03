@@ -1,0 +1,38 @@
+{
+	"name": "mailing-service-v2",
+	"version": "1.0.0",
+	"description": "Parallel Implementation of Mailing service in typescript",
+	"main": "dist/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AWS-Cloud-Community-LPU/mailing-service-v2.git"
+	},
+	"author": "Garvit Joshi <garvitjoshi9@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/AWS-Cloud-Community-LPU/mailing-service-v2/issues"
+	},
+	"homepage": "https://github.com/AWS-Cloud-Community-LPU/mailing-service-v2#readme",
+	"type": "module",
+	"dependencies": {
+		"kcors": "^2.2.2",
+		"koa": "^2.13.4",
+		"koa-bodyparser": "^4.3.0",
+		"koa-helmet": "^6.1.0",
+		"koa-morgan": "^1.0.1",
+		"koa-router": "^10.1.1",
+		"winston": "^3.7.2"
+	},
+	"devDependencies": {
+		"@types/kcors": "^2.2.6",
+		"@types/koa": "^2.13.4",
+		"@types/koa-bodyparser": "^4.3.7",
+		"@types/koa-morgan": "^1.0.5",
+		"@types/koa-passport": "^4.0.3",
+		"@types/koa-router": "^7.4.4",
+		"typescript": "^4.7.2"
+	}
+}
