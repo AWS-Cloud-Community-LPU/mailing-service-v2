@@ -24,7 +24,7 @@
 		"koa-helmet": "^6.1.0",
 		"koa-morgan": "^1.0.1",
 		"koa-router": "^10.1.1",
-		"winston": "^3.7.2"
+		"winston": "^3.8.0"
 	},
 	"devDependencies": {
 		"@types/kcors": "^2.2.6",
