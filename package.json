@@ -19,7 +19,7 @@
 	"type": "module",
 	"dependencies": {
 		"kcors": "^2.2.2",
-		"koa": "^2.13.4",
+		"koa": "^2.14.0",
 		"koa-bodyparser": "^4.3.0",
 		"koa-helmet": "^6.1.0",
 		"koa-morgan": "^1.0.1",
